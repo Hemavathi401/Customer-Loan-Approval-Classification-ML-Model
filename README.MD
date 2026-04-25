@@ -112,10 +112,6 @@ Build API using FastAPI
 Deploy with Streamlit for real-time predictions
 
 ## 🚀 Final Note
-
-This project reflects a practical implementation of classification in Machine Learning using a real-world inspired dataset.
-
-## 🚀 Final Note
 This project demonstrates a practical application of machine learning for classification problems, focusing on building a data-driven approach to loan approval decisions.
 
 It highlights core ML concepts including data preprocessing, feature handling, model training, and evaluation, forming a strong foundation for real-world predictive systems.
